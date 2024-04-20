@@ -1,1 +1,21 @@
 /* Add screen styles below */
+.grd {
+    position: absolute;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: 350px;
+    gap: 50px;
+}
+
+.grd .planet{
+    margin: 0;
+    padding: 0;
+    background: rgb(34, 28, 44);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 30px;    
+    line-height: 0.1;
+}
