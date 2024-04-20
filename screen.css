@@ -1,4 +1,10 @@
 /* Add screen styles below */
+ body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+ }
+
+
 .grd {
     position: absolute;
     margin: 50px;
@@ -6,6 +12,7 @@
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 350px;
     gap: 50px;
+    justify-content: center;
 }
 
 .grd .edit{
