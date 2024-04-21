@@ -105,7 +105,7 @@ p {
 }
 
 .edit form label {
-  display: inline-block;
+    display: inline-block;
     float: left;
     clear: left;
     width: 250px;
