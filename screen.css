@@ -3,6 +3,34 @@
     font-family: Helvetica, sans-serif;
  }
 
+ .navbar {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .navlinks a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+
 
 .grd {
     position: absolute;
