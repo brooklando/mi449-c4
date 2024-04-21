@@ -16,6 +16,8 @@ p {
 .navbar {
     background-color:#0094FF;
     color: #fff;
+    margin: 0;
+    padding: 0;
 }
 
 .section {
@@ -45,7 +47,7 @@ p {
 .grd {
     position: absolute;
     margin: 50px;
-    padding-left: 50px;
+    padding-left: 150px;
     display: grid;
     gap: 50px;
     justify-content: center;
