@@ -1,34 +1,38 @@
 /* Add screen styles below */
 body {
-font-family: Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
+}
+
+p {
+    line-height: 1.5;
 }
 
 .navbar {
-background-color:#0094FF;
-color: #fff;
+    background-color:#0094FF;
+    color: #fff;
 }
 
 .section {
-display: flex;
-justify-content: space-between;
-align-items: center;
-padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
 }
 
 .logo a {
-color: #fff;
-text-decoration: none;
-font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
 }
 
 .navlinks a {
-color: #fff;
-text-decoration: none;
-margin-left: 20px;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
 }
 
 .nav-links a:hover {
-text-decoration: underline;
+    text-decoration: underline;
 }
 
 
@@ -78,7 +82,7 @@ text-decoration: underline;
     width: 400px;
 }
 
-.profilepic {
+.profilepic img {
     border-radius: 50%;
 }
 
