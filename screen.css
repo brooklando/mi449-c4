@@ -1,6 +1,7 @@
 /* Add screen styles below */
 body {
     font-family: "Inria Sans", sans-serif;
+    color: #848484;
 }
 
 .logo a{
@@ -54,7 +55,7 @@ p {
 .grd .edit{
     grid-column-start: 2;
     grid-column-end: 2;
-    width: 800px;
+    width: 700px;
     height: 500px;
     margin: 0;
     padding: 0;
