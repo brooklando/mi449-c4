@@ -44,6 +44,7 @@ p {
 .grd {
     position: absolute;
     margin: 50px;
+    padding-left: 50px;
     display: grid;
     gap: 50px;
     justify-content: center;
