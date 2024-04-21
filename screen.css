@@ -97,20 +97,24 @@ p {
 
 .edit form input[type="text"] {
     padding: 20px;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
+    padding-left: 20px;
     border: 1px solid #ccc;
     border-radius: 3px;
     width: 400px;
     height: 3px;
-    width: 100%;
-    clear: both;
+    width: 400px;
+    display: inline-block;
+    float: left;
 }
 
 .edit form label {
-    margin-bottom: 50px;
-
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: left;
 }
-
 
 
 
