@@ -106,6 +106,12 @@ p {
     clear: both;
 }
 
+.edit form label {
+    margin-bottom: 50px;
+
+}
+
+
 
 
 .edit form {
