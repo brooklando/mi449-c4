@@ -4,7 +4,7 @@
  }
 
  .navbar {
-    background-color: #333;
+    background-color:#0094FF;
     color: #fff;
   }
   
@@ -91,5 +91,5 @@
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 3px;
-    width: 600px;
+    width: 500px;
 }
