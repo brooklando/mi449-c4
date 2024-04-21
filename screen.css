@@ -65,6 +65,8 @@
 }
 
 .grd .profile{
+    grid-row-start: 1;
+    grid-row-end: 2.5;
     margin: 0;
     padding: 0;
     background: rgb(255, 255, 255);
