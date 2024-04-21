@@ -6,40 +6,37 @@ body {
     padding: 0;
 }
 
-.logo a{
-    font-size: 30px;
-}
-
 p {
     line-height: 0.1;
     font-size: 20px;
 }
 
 .navbar {
-    background-color:#0094FF;
+    background-color: #0094FF;
     color: #fff;
-    margin: 0;
-    padding: 0;
-}
-
-.section {
+    padding: 20px 0;
+  }
+  
+  .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
-}
-
-.logo a {
+    padding: 0 20px;
+  }
+  
+  .logo a {
     color: #fff;
     text-decoration: none;
-    font-size: 20px;
-}
-
-.navlinks a {
+    font-size: 30px;
+  }
+  
+  .nav-links a {
     color: #fff;
     text-decoration: none;
     margin-left: 20px;
-}
+    font-size: 18px;
+  }
+  
 
 .nav-links a:hover {
     text-decoration: underline;
