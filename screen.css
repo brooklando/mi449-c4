@@ -10,7 +10,7 @@ body {
 
 p {
     line-height: 0.3;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .navbar {
@@ -96,7 +96,7 @@ p {
     margin-bottom: 25px;
     border: 1px solid #ccc;
     border-radius: 3px;
-    width: 300px;
+    width: 400px;
     height: 3px;
     
 }
