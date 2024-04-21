@@ -1,4 +1,3 @@
-/* Add screen styles below */
 body {
     font-family: "Inria Sans", sans-serif;
     color: #848484;
@@ -11,6 +10,7 @@ p {
     font-size: 20px;
 }
 
+/*navbar styling*/
 .navbar {
     background-color:#0094FF;
     color: #fff;
@@ -41,7 +41,7 @@ p {
     text-decoration: underline;
 }
 
-
+/*profile page styling*/
 .grd {
     position: absolute;
     margin: 50px;
@@ -91,6 +91,7 @@ p {
     border-radius: 50%;
 }
 
+/* edit card styling*/
 .edit form input[type="text"] {
     padding: 20px;
     margin-bottom: 30px;
