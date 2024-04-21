@@ -103,18 +103,19 @@ p {
     border-radius: 3px;
     width: 400px;
     height: 3px;
-    width: 400px;
     display: inline-block;
-    float: left;
+    width: 400px;
+    float:right;
 }
 
 .edit form label {
-    display: inline-block;
+  display: inline-block;
     float: left;
     clear: left;
     width: 250px;
     text-align: left;
 }
+
 
 
 
