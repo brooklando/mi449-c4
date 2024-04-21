@@ -2,6 +2,8 @@
 body {
     font-family: "Inria Sans", sans-serif;
     color: #848484;
+    margin: 0;
+    padding: 0;
 }
 
 .logo a{
